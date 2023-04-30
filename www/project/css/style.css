@@ -1,0 +1,45 @@
+body {
+    font-size: 100%;
+    font-family: Arial;
+}
+
+.title {
+    font-size: 150%;
+}
+
+.hr-dotted {
+    margin: 0 0;
+    padding: 0;
+    height: 0;
+    border: none;
+    border-top: 2px dotted #832b5b;
+}
+
+.date {
+    color: #fff;
+    background-color: #832b5b;
+}
+
+div.footer a {
+    color: #000;
+}
+
+
+div.pages {
+    float: left;
+    background-color: #edefeb;
+    border: 1px solid black;
+    width: 32px;
+    text-align: center;
+    margin: 1px;
+}
+
+.active {
+    float: left;
+    background-color: #832b5b;
+    border: 1px solid black;
+    width: 20px;
+    text-align: center;
+    color: #fff;
+    margin: 1px;
+}
